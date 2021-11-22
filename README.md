@@ -21,7 +21,7 @@ Below is the user story capture from McDonald, please develop test cases for eac
 - 08: A McDonald's cooking bot can only process one order at a time, and required 3 seconds to complete an order.
 
 ### Test against pototype
-Our development team has developed a prototype [here](nervous-mcclintock-523688.netlify.app). Please run your test case against the prototype, and capture any bug. For any bug found, document and analyze the bug so that the development team can resolve it effectively.
+Our development team has developed a prototype [here](https://nervous-mcclintock-523688.netlify.app). Please run your test case against the prototype, and capture any bug. For any bug found, document and analyze the bug so that the development team can resolve it effectively.
 
 ### Test result
 Your test and test result must meet the following criteria:
