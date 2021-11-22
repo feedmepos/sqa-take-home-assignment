@@ -17,19 +17,19 @@ Below is the user story capture from McDonald, please develop test cases for eac
 - 04: As the McDonald's manager, I want orders of the same type (VIP and non-VIP) to be processed according to the "First come First serve" rule.
 - 05: As the McDonald's manager, I want to increase and decrease the number of cooking bots available in my restaurant.
 - 06: When a McDonald's cooking bot is added to the restaurant, it should start working on the order immediately.
-- 07: When a McDonald's cooking bot is removed from the restaurant, it should abandon my order immediately and release it to other bots (if any).
+- 07: When a McDonald's cooking bot is removed from the restaurant, it should abandon its order immediately and release it to other bots (if any).
 - 08: A McDonald's cooking bot can only process one order at a time, and required 3 seconds to complete an order.
 
 ### Prototype
-Our development team has developed a prototype here. Please run your test case against the prototype, and capture any bug. For every bug found, document and analyze the bug so our development team can resolve it effectively.
+Our development team has developed a prototype here. Please run your test case against the prototype, and capture any bug. For any bug found, document and analyze the bug so our development team can resolve it effectively.
 
 ### Test result
-Your source code and test result must meet the following criteria:
-- precisely address a user story
+Your test and test result must meet the following criteria:
+- precisely address the need user story
 - executable (manual or automatic)
-- readable for project manager and development team.
+- readable for various audience, eg: project manager, development team
 
 ### Tips on completing this assignment
 - Use the best tools you have on hand.
 - Try to scope your working hour within 3 hours and avoid unnecessary optimization and documentation.
-- Communicate effectively like you are going to communicate with the actual development team.
+- Communicate effectively like you are going to communicate with the actual team member.
