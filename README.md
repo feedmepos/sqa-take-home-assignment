@@ -20,8 +20,8 @@ Below is the user story capture from McDonald, please develop test cases for eac
 - 07: When a McDonald's cooking bot is removed from the restaurant, it should abandon its order immediately and release it to other bots (if any).
 - 08: A McDonald's cooking bot can only process one order at a time, and required 3 seconds to complete an order.
 
-### Prototype
-Our development team has developed a prototype here. Please run your test case against the prototype, and capture any bug. For any bug found, document and analyze the bug so our development team can resolve it effectively.
+### Test against pototype
+Our development team has developed a prototype [here](nervous-mcclintock-523688.netlify.app). Please run your test case against the prototype, and capture any bug. For any bug found, document and analyze the bug so that the development team can resolve it effectively.
 
 ### Test result
 Your test and test result must meet the following criteria:
@@ -31,5 +31,5 @@ Your test and test result must meet the following criteria:
 
 ### Tips on completing this assignment
 - Use the best tools you have on hand.
-- Try to scope your working hour within 3 hours and avoid unnecessary optimization and documentation.
+- Try to scope your working hour within 3 hours (1 hour per day if you really busy) and avoid unnecessary optimization and documentation.
 - Communicate effectively like you are going to communicate with the actual team member.
