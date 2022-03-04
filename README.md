@@ -14,10 +14,10 @@ Below is the user story capture from McDonald, please develop test cases for eac
 - 01: As a McDonald's customer, after I submitted my order, I want to see my order appear in the "PENDING" area.
 - 02: As a McDonald's customer, after a cooking bot processed my order, I want to see my order moved to the "COMPLETE" area.
 - 03: As a McDonald's VIP member, after I submitted my order, I want the cooking bot to process my order first before all non-VIP orders.
-- 04: As the McDonald's manager, I want orders of the same type (VIP and non-VIP) to be processed according to the "First come First serve" rule.
+- 04: As the McDonald's manager, I want orders in the same group (VIP and non-VIP) to be processed according to the "First come First serve" rule.
 - 05: As the McDonald's manager, I want to increase and decrease the number of cooking bots available in my restaurant.
 - 06: When a McDonald's cooking bot is added to the restaurant, it should start working on the order immediately.
-- 07: When a McDonald's cooking bot is removed from the restaurant, it should abandon its order immediately and release it to other bots (if any).
+- 07: When a McDonald's cooking bot is removed from the restaurant, it should abandon its order immediately and put it back to "PENDING" area.
 - 08: A McDonald's cooking bot can only process one order at a time, and required 3 seconds to complete an order.
 
 ### Test against pototype
