@@ -17,19 +17,19 @@ Below is the user story capture from McDonald, please develop test cases for eac
 - 04: As the McDonald's manager, I want orders in the same group (VIP and non-VIP) to be processed according to the "First come First serve" rule.
 - 05: As the McDonald's manager, I want to increase and decrease the number of cooking bots available in my restaurant.
 - 06: When a McDonald's cooking bot is added to the restaurant, it should start working on the order immediately.
-- 07: When a McDonald's cooking bot is removed from the restaurant, it should abandon its order immediately and put it back to "PENDING" area.
+- 07: When a McDonald's cooking bot is removed from the restaurant, it should abandon its order immediately and put it back in the "PENDING" area.
 - 08: A McDonald's cooking bot can only process one order at a time, and required 3 seconds to complete an order.
 
-### Test against pototype
-Our development team has developed a prototype [here](https://nervous-mcclintock-523688.netlify.app). Please run your test case against the prototype, and capture any bug. For any bug found, document and analyze the bug so that the development team can resolve it effectively.
+### Test against prototype
+Our development team has developed a prototype [here](https://nervous-mcclintock-523688.netlify.app). Please run your test case against the prototype, and capture any bugs. For any bug found, document and analyze the bug so that the development team can resolve it effectively.
 
 ### Test result
 Your test and test result must meet the following criteria:
-- precisely address the need user story
-- executable (manual or automatic)
-- readable for various audience, eg: project manager, development team
+- precisely address the need for user story
+- executable (automatic)
+- readable for various audiences, eg: project manager, development team
 
 ### Tips on completing this assignment
 - Use the best tools you have on hand.
-- Try to scope your working hour within 3 hours (1 hour per day if you really busy) and avoid unnecessary optimization and documentation.
+- Try to scope your working hour within 3 hours (1 hour per day if you are really busy) and avoid unnecessary optimization and documentation.
 - Communicate effectively like you are going to communicate with the actual team member.
